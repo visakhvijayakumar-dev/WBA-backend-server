@@ -1,8 +1,8 @@
-Objective :  
+#Objective :  
 	• Create platform to upload the report generated from smart scale report.
 	• Learn new back end service (Django)
 
-Stage :
+#Stage :
 Stage 1 : 
 	1. User sign in and sign up using social media
 	2. Read it from the image report and display the result in the form of a tiles(latest data). 
